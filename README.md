@@ -1,4 +1,4 @@
-# npx-robycigar
+# npx robycigar
 
 A CLI program
 
